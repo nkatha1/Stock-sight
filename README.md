@@ -95,6 +95,16 @@ Streamlit
  for making web app deployment easy
 
 
+Acknowledgements
+
+Yahoo Finance
+ for stock data
+
+PyTorch
+ for machine learning framework
+
+Streamlit
+ for making web app deployment easy
 
 
 
